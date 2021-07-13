@@ -1,0 +1,17 @@
+.titulo {
+  background-color: #C4C4C4;
+}
+
+h1 {
+  text-align: center;
+}
+
+footer {
+  background: #005677;
+  color: #FFFFFF;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
